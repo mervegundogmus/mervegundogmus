@@ -28,8 +28,6 @@
 ![Visual Studio Code](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-code-2019-48.png) 
 ![Visual Studio 2019](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-2019-48.png)
 ![Intelij](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-intellij-idea-48.png)
-![PyCharm](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-pycharm-48.png)
-![WebStorm](https://github.com/mervegundogmus/mervegundogmus/blob/main/icon8-webstorm-48.png)
 
 <p align="center"> 
   Visitor Count<br>
