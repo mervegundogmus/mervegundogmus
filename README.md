@@ -9,7 +9,27 @@
 </p><br>
 
 <a href="https://github.com/mervegundogmus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mervegundogmus&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/mervegundogmus"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervegundogmus&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10&hide=asp.net" /></a><br>
+    
+<h1 align='center'> Knowledge 🧠 </h1>
+
+![C](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-c-programming-48.png)
+![Java](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-java-48.png)
+![Python](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-python-48.png)
+![JavaScript](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-javascript-48.png)
+![Html5](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-html-5-48.png)
+![Css3](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-css3-48.png)
+![Spring](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-spring-logo-48.png)
+![SpringBoot](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-spring-boot-48.png)
+![Django](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-django-48.png) 
+![React](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-react-native-48.png)
+![MySql](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-mysql-logo-48.png)
+![Mongo](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-mongodb-48.png)
+![Spring Suite](https://github.com/mervegundogmus/mervegundogmus/blob/main/icon8-spring-tool-suite-48.png)
+![Visual Studio Code](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-code-2019-48.png) 
+![Visual Studio 2019](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-2019-48.png)
+![Intelij](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-intellij-idea-48.png)
+![PyCharm](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-pycharm-48.png)
+![WebStorm](https://github.com/mervegundogmus/mervegundogmus/blob/main/icon8-webstorm-48.png)
 
 <p align="center"> 
   Visitor Count<br>
