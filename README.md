@@ -20,14 +20,14 @@
 ![Css3](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-css3-48.png)
 ![Spring](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-spring-logo-48.png)
 ![SpringBoot](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-spring-boot-48.png)
-![Django](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-django-48.png) 
 ![React](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-react-native-48.png)
+![Django](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-django-48.png) 
 ![MySql](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-mysql-logo-48.png)
 ![Mongo](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-mongodb-48.png)
 ![Spring Suite](https://github.com/mervegundogmus/mervegundogmus/blob/main/icon8-spring-tool-suite-48.png)
+![Intelij](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-intellij-idea-48.png)
 ![Visual Studio Code](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-code-2019-48.png) 
 ![Visual Studio 2019](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-visual-studio-2019-48.png)
-![Intelij](https://github.com/mervegundogmus/mervegundogmus/blob/main/icons8-intellij-idea-48.png)
 
 <p align="center"> 
   Visitor Count<br>
