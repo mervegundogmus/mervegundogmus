@@ -12,7 +12,7 @@
     
 <h2 align='center'> Knowledge 🧠 </h2>
  <p align='center'>
- <img src="https://img.shields.io/badge/-Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat" />&nbsp;
+ <img src="https://img.shields.io/badge/-Java-DF2B2D.svg?&style=for-the-badge&logo=java&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-Spring%20-8BC34A.svg?&style=for-the-badge&logo=spring&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-Python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-JavaScript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&style=flat" />&nbsp;
@@ -22,9 +22,12 @@
  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB43B.svg?&style=for-the-badge&logo=springboot&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-MySQL%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-MongoDB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white&style=flat" />&nbsp;
+ <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-FE315D.svg?&style=for-the-badge&logo=intellijidea&logoColor=white&style=flat" />&nbsp;
+ <img src="https://img.shields.io/badge/-WebStorm%20-1FB6E5.svg?&style=for-the-badge&logo=webstorm&logoColor=white&style=flat" />&nbsp;
+ <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-VS%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat" />&nbsp;
-</p><br>
+  
+ </p><br>
     
 <p align="center"> 
   Visitor Count<br>
