@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/-MongoDB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-FE315D.svg?&style=for-the-badge&logo=intellijidea&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-WebStorm%20-1FB6E5.svg?&style=for-the-badge&logo=webstorm&logoColor=white&style=flat" />&nbsp;
- <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat" />&nbsp;
+ <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white&style=flat" />&nbsp;
  <img src="https://img.shields.io/badge/-VS%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat" />&nbsp;
   
  </p><br>
