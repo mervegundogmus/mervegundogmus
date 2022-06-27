@@ -1,3 +1,5 @@
+<div id="header" align="center">
+
 <h1 align='center'> Hi there 👋, I'm Merve Gündoğmuş 👩🏼‍💻 </h1>
 
 <p align='center'>
@@ -37,3 +39,4 @@
   <img src="https://profile-counter.glitch.me/mervegundogmus/count.svg" />
 </p>
 
+</div>
