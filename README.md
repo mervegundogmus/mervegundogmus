@@ -11,7 +11,7 @@
  ---
 #### 🛠 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,html,css,react,mysql,mongodb,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,spring,python,django,js,html,css,react,mysql,mongodb,sqlite,idea,eclipse,vscode)](https://skillicons.dev)
  ---
  
  ### :zap: GitHub Stats:
