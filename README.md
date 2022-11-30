@@ -12,21 +12,22 @@
 #### 🛠 Technology Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,mongodb,php,symfony,idea,eclipse,vscode)](https://skillicons.dev)
- ---
  
- ### :zap: GitHub Stats:
+ ---
 
 <div align="height">
   <a href="https://github.com/mervegundogmus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mervegundogmus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mervegundogmus&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervegundogmus&theme=dark&layout=compact"/>
 </div>
  
  ---
  
  <p align="center"> 
-  Visitor Count<br>
+  Visitor Count<br><br>
   <img src="https://profile-counter.glitch.me/mervegundogmus/count.svg" />
 </p>
 
 </div>
+ 
+ 
