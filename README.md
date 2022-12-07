@@ -11,7 +11,7 @@
  ---
 #### 🛠 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,mongodb,php,symfony,idea,eclipse,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,mongodb,idea,eclipse,vscode,git)](https://skillicons.dev)
  
  ---
 
